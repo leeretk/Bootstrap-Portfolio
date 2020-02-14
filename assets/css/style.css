@@ -29,15 +29,22 @@ header {
 
 nav {
     margin: auto;
+    float:right;
+
 }
 
 nav ul {
     padding: 0;
+
     list-style: none;
 }
 
 nav li {
     display: inline-block;
+    padding-top: 10px;
+    font-size: 25px;
+    letter-spacing: .1em;
+    color: darkgray;
 }
 
 a { text-decoration: none;
